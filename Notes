@@ -1,0 +1,2 @@
+We have scatter plot matrix in pandas.plotting
+We define a model and then use that as a function to fit, then use this fit to predict. In simple words, we create a machine that does something first, then we use that machine how ever we would like to
